@@ -12,4 +12,4 @@ document.addEventListener('click', function(e) {
 
         target = target.parentNode;
     }
-})
+});
